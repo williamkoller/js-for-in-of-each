@@ -1,0 +1,1 @@
+## Exemplos para trabalhar com for-in, for-of e forEach em JavaScript
